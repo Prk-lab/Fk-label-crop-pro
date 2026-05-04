@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FK Label Master</string>
+    <string name="title_activity_main">FK Label Master</string>
+    <string name="package_name">com.fklabel.master</string>
+    <string name="custom_url_scheme">com.fklabel.master</string>
+</resources>
